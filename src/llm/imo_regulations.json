@@ -1,0 +1,37 @@
+{
+    "SOLAS II-2/3.2": {
+        "title": "Fire Safety Systems",
+        "year": "2020",
+        "description": "Requirements for fire detection and alarm systems"
+    },
+    "SOLAS V/19": {
+        "title": "Carriage Requirements for Shipborne Navigational Systems and Equipment",
+        "year": "2020",
+        "description": "Requirements for navigational equipment"
+    },
+    "MARPOL Annex VI": {
+        "title": "Prevention of Air Pollution from Ships",
+        "year": "2021",
+        "description": "Regulations for the prevention of air pollution from ships"
+    },
+    "MARPOL Annex I": {
+        "title": "Prevention of Pollution by Oil",
+        "year": "2021",
+        "description": "Regulations for the prevention of pollution by oil"
+    },
+    "COLREG Rule 5": {
+        "title": "Look-out",
+        "year": "1972",
+        "description": "Every vessel shall at all times maintain a proper look-out by sight and hearing"
+    },
+    "STCW A-II/1": {
+        "title": "Mandatory Minimum Requirements for Certification of Officers in Charge of a Navigational Watch",
+        "year": "2010",
+        "description": "Standards of training, certification and watchkeeping for seafarers"
+    },
+    "IMO Resolution MSC.1/Circ.1595": {
+        "title": "Guidelines for the Development of Ship Energy Efficiency Management Plan (SEEMP)",
+        "year": "2018",
+        "description": "Guidelines for developing and implementing ship energy efficiency management plans"
+    }
+} 
